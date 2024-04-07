@@ -30,7 +30,7 @@ export default function FooterComp() {
                       target='_blank'
                       rel='noopener noreferrer'
                     >
-                        Rishabh's Blog
+                        Rishabh's Blogify
                     </Footer.Link>
                    </Footer.LinkGroup>
                 </div>
