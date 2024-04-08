@@ -52,7 +52,7 @@ The home page serves as the main entry point for users. It typically displays a 
 
 2. **Admin Dashboard:**
 
-![Admin Dashboard](Replace with your admin dashboard screenshot link )
+![admin dashboard](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/1aa4730c-56d8-4154-b052-1281d9777272)
 
 This section is accessible only to authorized users with admin privileges.
 
