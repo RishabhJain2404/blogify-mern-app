@@ -94,7 +94,7 @@ The search functionality allows users to find specific blog posts based on keywo
 
 8. **Post Details:**
 
-![Post Details Page](Replace with your post details page screenshot link )
+![post details](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/e7807289-656c-4726-ad49-199968a3d45f)
 
 This page displays the details of an individual blog post, including the title, image, content, date, mins of read and potentially comments and likes from other users.
 
