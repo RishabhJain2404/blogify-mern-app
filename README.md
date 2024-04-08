@@ -88,7 +88,7 @@ Users can edit existing blog posts by modifying the title, image, content, or as
 
 7. **Search:**
 
-![Search Page](Replace with your search page screenshot link )
+![search](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/cdffcf1b-b5e2-4035-b0ad-ef8e12cf3f4f)
 
 The search functionality allows users to find specific blog posts based on keywords or criteria. You can highlight the advanced search features like filtering and sorting capabilities here.
 
