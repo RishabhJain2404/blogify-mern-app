@@ -60,7 +60,7 @@ The admin dashboard provides functionalities for managing users, posts, and comm
 
 3. **Sign Up:**
 
-![About Page](Replace with your about page screenshot link )
+![sign up](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/2bd89955-1784-404d-955b-00be95086768)
 
 Users can create new accounts for signing up. This section should include functionalities for both email/password and Google OAuth login.
 
