@@ -50,19 +50,27 @@ This will start the development server on `http://localhost:3000` by default.
 
 The home page serves as the main entry point for users. It typically displays a list of recent blog posts, along with navigation options to access other sections of the application.
 
-2. **About Page:**
+2. **Admin Dashboard:**
+
+![Admin Dashboard](Replace with your admin dashboard screenshot link )
+
+This section is accessible only to authorized users with admin privileges.
+
+The admin dashboard provides functionalities for managing users, posts, and comments. This includes functionalities like viewing, editing, and deleting data.
+
+3. **Sign Up:**
 
 ![About Page](Replace with your about page screenshot link )
 
-The about page provides information about the application, its functionalities, and potentially the team behind its development.
+Users can create new accounts for signing up. This section should include functionalities for both email/password and Google OAuth login.
 
-3. **Sign In/Sign Up:**
+4. **Sign In:**
 
 ![Sign In/Sign Up Page](Replace with your sign in/sign up page screenshot link )
 
-Users can create new accounts or sign in using their existing credentials. This section should include functionalities for both email/password and Google OAuth login.
+Users can sign in using their existing credentials. This section should include functionalities for both email/password and Google OAuth login.
 
-4. **Create Post:**
+5. **Create Post:**
 
 ![Create Post Page](Replace with your create post page screenshot link )
 
@@ -70,7 +78,7 @@ This section is accessible only to authenticated users.
 
 Here, users can create new blog posts by providing a title, image, content, and potentially adding categories or tags.
 
-5. **Update Post:**
+6. **Update Post:**
 
 ![Update Post Page](Replace with your update post page screenshot link )
 
@@ -78,25 +86,18 @@ This section is accessible only to authenticated users and only for posts the us
 
 Users can edit existing blog posts by modifying the title, image, content, or associated categories/tags.
 
-6. **Search:**
+7. **Search:**
 
 ![Search Page](Replace with your search page screenshot link )
 
 The search functionality allows users to find specific blog posts based on keywords or criteria. You can highlight the advanced search features like filtering and sorting capabilities here.
 
-7. **Post Details:**
+8. **Post Details:**
 
 ![Post Details Page](Replace with your post details page screenshot link )
 
 This page displays the details of an individual blog post, including the title, image, content, date, mins of read and potentially comments and likes from other users.
 
-8. **Admin Dashboard:**
-
-![Admin Dashboard](Replace with your admin dashboard screenshot link )
-
-This section is accessible only to authorized users with admin privileges.
-
-The admin dashboard provides functionalities for managing users, posts, and comments. This includes functionalities like viewing, editing, and deleting data.
 
 ## Deployment
 
