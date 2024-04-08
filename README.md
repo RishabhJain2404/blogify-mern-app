@@ -72,7 +72,7 @@ Users can sign in using their existing credentials. This section should include 
 
 5. **Create Post:**
 
-![Create Post Page](Replace with your create post page screenshot link )
+![create post](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/fce79afc-4fb8-4f90-b367-ac248c2659a8)
 
 This section is accessible only to authenticated users.
 
