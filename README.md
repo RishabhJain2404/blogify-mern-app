@@ -46,7 +46,7 @@ This will start the development server on `http://localhost:3000` by default.
 
 1. **Home Page:**
 
-![Home Page](Replace with your home page screenshot link )
+![home](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/6b489d07-e437-46fd-b8e0-e1a3b4b12340)
 
 The home page serves as the main entry point for users. It typically displays a list of recent blog posts, along with navigation options to access other sections of the application.
 
