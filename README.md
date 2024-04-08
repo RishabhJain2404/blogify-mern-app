@@ -80,7 +80,7 @@ Here, users can create new blog posts by providing a title, image, content, and 
 
 6. **Update Post:**
 
-![Update Post Page](Replace with your update post page screenshot link )
+![update post](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/6058276a-e503-4a31-b09b-896429592732)
 
 This section is accessible only to authenticated users and only for posts the user created.
 
