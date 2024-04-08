@@ -66,7 +66,7 @@ Users can create new accounts for signing up. This section should include functi
 
 4. **Sign In:**
 
-![Sign In/Sign Up Page](Replace with your sign in/sign up page screenshot link )
+![sign in](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/229c9856-1726-4fae-880e-7b341d508e89)
 
 Users can sign in using their existing credentials. This section should include functionalities for both email/password and Google OAuth login.
 
