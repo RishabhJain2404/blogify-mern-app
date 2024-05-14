@@ -4,6 +4,8 @@
 
 This project demonstrates a full-stack blog application built with the MERN stack (MongoDB, Express, React, Node.js). It boasts a user-friendly interface, robust functionalities, and secure user management. 
 
+![home](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/6b489d07-e437-46fd-b8e0-e1a3b4b12340)
+
 This README will guide you through the key features and functionalities of Blogify:
 
 ## Project Structure
