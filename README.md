@@ -15,36 +15,6 @@ This README will guide you through the key features and functionalities of Blogi
 * `client`: Contains the React frontend codebase for the application.
 * `server`: Houses the Node.js backend code responsible for server-side logic and API endpoints.
 
-## Getting Started
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/blogify.git
-
-
-2. **Install dependencies:**
-
-   ```bash
-   cd blogify
-   npm install
-
-3. **Configure environment variables:**
-
-Create a `.env` file in the project root directory and add the following variables (replace with your actual values):
-
-  
-    MONGODB_URI=mongodb://localhost:27017/<your-database-name>
-    JWT_SECRET=<your-jwt-secret>
-    GOOGLE_CLIENT_ID=<your-google-client-id>
-    GOOGLE_CLIENT_SECRET=<your-google-client-secret>
-
-4. **Run the application:**
-
-    ```bash
-    npm start
-
-This will start the development server on `http://localhost:3000` by default.
 
 ## Navigating Blogify
 
@@ -101,6 +71,38 @@ The search functionality allows users to find specific blog posts based on keywo
 ![post details](https://github.com/RishabhJain2404/blogify-mern-app/assets/127675963/e7807289-656c-4726-ad49-199968a3d45f)
 
 This page displays the details of an individual blog post, including the title, image, content, date, mins of read and potentially comments and likes from other users.
+
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/blogify.git
+
+
+2. **Install dependencies:**
+
+   ```bash
+   cd blogify
+   npm install
+
+3. **Configure environment variables:**
+
+Create a `.env` file in the project root directory and add the following variables (replace with your actual values):
+
+  
+    MONGODB_URI=mongodb://localhost:27017/<your-database-name>
+    JWT_SECRET=<your-jwt-secret>
+    GOOGLE_CLIENT_ID=<your-google-client-id>
+    GOOGLE_CLIENT_SECRET=<your-google-client-secret>
+
+4. **Run the application:**
+
+    ```bash
+    npm start
+
+This will start the development server on `http://localhost:3000` by default.
 
 
 ## Deployment
